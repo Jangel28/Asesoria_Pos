@@ -1,0 +1,6 @@
+Producto=("Cuaderno")
+Precio=("25 pesos")
+existencias=("30")
+print(Producto)
+print(Precio)
+print(existencias)

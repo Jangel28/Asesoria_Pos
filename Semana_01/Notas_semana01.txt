@@ -1,0 +1,58 @@
+
+Procesador	Intel(R) Core(TM) Ultra 5 225H (1.70 GHz)
+RAM instalada	16.0 GB (15.4 GB usable)
+Tarjeta gráfica	Intel(R) Graphics (128 MB)
+Almacenamiento	118 GB de 477 GB usado
+Identificador de dispositivo	3F419DB9-1655-4C27-AF01-76F2A3812D2B
+Id. del producto	00342-42420-15330-AAOEM
+Tipo de sistema	Sistema operativo de 64 bits, procesador basado en x64
+Lápiz y entrada táctil	La entrada táctil o manuscrita no está disponible para esta pantalla
+
+
+Edición	Windows 11 Home Single Language
+Versión	25H2
+Instalado el	‎05/‎10/‎2026
+Versión del sistema operativo	26200.9711
+Experiencia	Paquete de experiencia de características de Windows 1000.26100.372.0
+
+Tarea 1 -Preparar espacio de trabajo
+Tiempo invertido: 5 minutos
+Entendí que estamos empezando a preparar donde se va a trabajar.
+No me quedaron dudas de esta tarea.
+
+Tarea 2 -Instalar Python y comprobarlo
+Tiempo invertido: 5 minutos
+Aprendí sobre PowerShell nunca lo había utilizado
+Python ya lo había instalado por lo que no tuve dudas.
+
+Tarea 3 -Instalar y preparar VS Code
+Tiempo invertido: 45 minutos
+Aprendí como se instala y se prepara el VS Code con el cual se va a trabajar Python
+Tuve dudas que me ayudó Rafa a instalar en el interpreter
+
+Tarea 4 Crear y ejecutar tú primer archivo
+Tiempo invertido: 32 minutos
+aprendí a crear un archivo .py y a ejecutarlo
+No podía correrlo hasta que Rafa me explicó sobre el botón de play
+
+Tarea 5 Crear Variables y reconocer tipos de datos
+Tiempo invertido 40 minutos
+Utilizando el video de guía aprendí que son las variables, cuales son las cadenas de texto o Strings y que siempre van dentro de comillas "", cuales son los enteros o integer que son números enteros, cuales son los flotantes o floats que son los números que tienen decimales y sobre los condicionales boleanos True y False
+Realizando las tareas con éxito y sin problemas
+
+Tarea 6 Practicar operaciones
+Tiempo invertido: 180 minutos
+estuve realizando diferentes tipos de operaciones y realicé una compra sencilla, aprendí a hacer operaciones básicas en python
+No sabía como realizar una operación de diferentes productos hasta que Rafa envió una página con diferentes tipos de operaciones.
+
+Tarea 7 Pedir datos y calcular el importe
+Tiempo invertido 4 horas y 50 minutos
+Al iniciar la tarea me fue fácil entender la variable input con el recurso, pero el problema llegó al momento de realizar las conversiones únicamente por la situación de que no entendía como generar adecuadamente la línea de código 
+Al final resolviendo el tema y aprendiendo a usar el formato "{:.2f}" para mostrar 2 decimales pude realizar con éxito las 3 pruebas.
+
+
+
+
+
+
+ 

@@ -1,0 +1,7 @@
+Tarea_01 Preparar archivos y recuperar tu avance
+Tiempo 15 minutos. 
+realicé una copía de compra_semana2.py probé una entrada invalida sin problemas aquí pongo lo que a mi parecer realizan las funciones "IF", "WHILE", "TRY", "EXCEPT".
+If: la función if permite que algo se ejecute si cumple con una condición
+While: la función while crea un bucle que se repite mientras la condición sea verdadera
+Try: la función try es donde se pone lo que vas a verificar que no tenga un error si ocurre un error se pasará a except.
+Except: va a mostrar el error que indique según lo que se ejecuta en try.

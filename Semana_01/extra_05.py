@@ -1,0 +1,8 @@
+producto= input("¿Que producto vas a comprar?")
+print(producto)
+precio= input("¿Cuanto cuesta cada pieza?")
+print(precio)
+cantidad= input("¿Cuantas piezas quieres?")
+print(cantidad)
+total=(float (precio) * int (cantidad))
+print("Total a pagar" "{:.2f}".format(total),"pesos")

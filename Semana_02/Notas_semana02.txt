@@ -1,0 +1,43 @@
+semana_02
+Tarea_01 -Preparar los archivos de la semana
+Tiempo invertido: 5 minutos
+Realicé la actividad sin problemas, se creó el nuevo archivo de compra_semana2 y la carpeta
+No me quedaron dudas de esta tarea, la nueva carpeta se ejecutó sin problema desde VS Code.
+*De la semana 1 ya me queda claro que es una variable y como utilizarlas, la diferencia entre las cadenas de texto, los números enteros, los flotantes y que los boleanos únicamente tienen 2 valores True o False, como imprimir pantalla con print y solicitar información con input, además a realizar operaciones dentro del VS Code.
+
+Tarea_02 Aprender a tomar decisiones con if
+Tiempo invertido: 5 minutos
+Realicé la actividad sin mayor problema, cree el archivo condiciones.py y en el con las variables existencias y cantidad hice las condicionales de if para <= a cero y elif si la cantidad era > a las existencias y else para indicar que la cantidad está dentro del rango de las existencias.
+No me generó ninguna duda
+
+Decisiones y reglas del negocio
+Comparar antes de vender
+
+Tarea_03 Operadores de comparación y lógicos
+Tiempo invertido: 1 hora 30 minutos
+al principio no entendía la diferencia entre = y ==, pero al ir haciendo pruebas me percate que == se ocupa cuando vas a realizas una comparación con un comando if por ejemplo. y = se ocupa para declarar las variables
+Las 3 reglas que revisaría antes de vender
+1.- Que siempre cantidad sea menor a existencias
+2.- Que el precio siempre lo multiplique por la cantidad
+3.- Que lo que se venda se descuente de las existencias
+
+Tarea_04 Repetir acciones con while
+Tiempo invertido: 12 horas o más
+Al principio comprendí como se maneja While, pero al realizar la segunda practica me quedé atorado en un bucle que no hacía más que la pregunta...No pude avanzar de ahí.
+Actualización breve explicación de algo que no veía y logré hacerlo funcionar
+Break sirve para romper el ciclo de While cuando se cumple la condición.
+
+Tarea_05 Practicar el ciclo for
+Tiempo invertido: 15 minutos
+Cuando me atoré con la tarea 04 estuve leyendo todo lo que podía y trataba de comprender para hacerla y ahí encontré el ciclo for usando range, entonces por ello no me fue tan difícil realizar esta tarea.
+While sirve para repetir una condición porque genera un bucle que no se detiene mientras este sea True, y for recorre uno por uno hasta que se terminen o hasta que le indique range.
+
+Tarea_06 Capturar datos sin errores con try/ except
+Tiempo invertido: 50 minutos
+
+Tarea_07 y Tarea_08
+Tiempo invertido: 2 días
+
+Al principio no tenía idea de como ir aplicando lo que había aprendido, pues tenía la idea pero a la hora de plasmarla no dejaba de marcar error, fui buscando ejemplos y tratando de acomodar todo para que fuera corriendo, primero corría pero iba generando bucles entonces iba metiendo break para cortarlo, pero aun así algunas cosas seguía marcándolas mal, fui cambiando las sangrías y empezó a correr. 
+
+
